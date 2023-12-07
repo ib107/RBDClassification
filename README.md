@@ -6,4 +6,7 @@ This project is comprised of three interconnected sections, preprocessing, featu
 
 # Data Source
 The Cyclic Alternating Pattern (CAP) database from PhsyioNet was used. From this database, EMG data was analyzed by first preprocessing the data, followed by the extraction of features. 
-(https://physionet.org/content/capslpdb/1.0.0/)https://physionet.org/content/capslpdb/1.0.0/
+(https://physionet.org/content/capslpdb/1.0.0/)https://physionet.org/content/capslpdb/1.0.0/)
+
+# Programming
+All the coding performed for this project was done exclusively in the MATLAB environment and is available on MathWorks toolboxes and applications. 
