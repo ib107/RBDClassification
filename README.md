@@ -4,9 +4,12 @@ The following project aims to implement a machine learning algorithm that can de
 # Overview 
 This project is comprised of three interconnected sections, preprocessing, feature extraction, and machine learning. The overall algorithm is based on EMG signals from a collection of polysomnography (PSG) that were acquired from a public online database. Upon processing and analyzing signal epochs, a machine-learning algorithm was created to determine whether a subject has healthy or disordered sleep.
 
+This project was completed December 2022.
+
 # Data Source
 The Cyclic Alternating Pattern (CAP) database from PhsyioNet was used. From this database, EMG data was analyzed by first preprocessing the data, followed by the extraction of features. 
 (https://physionet.org/content/capslpdb/1.0.0/)https://physionet.org/content/capslpdb/1.0.0/)
 
 # Programming
 All the coding performed for this project was done exclusively in the MATLAB environment and is available on MathWorks toolboxes and applications. 
+
